@@ -1,3 +1,5 @@
+package com.java21days;
+
 class EqualsTester {
     public static void main(String[] arguments) {
         String str1, str2;

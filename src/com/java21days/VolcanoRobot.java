@@ -1,3 +1,5 @@
+package com.java21days;
+
 class VolcanoRobot {
     String status;
     int speed;

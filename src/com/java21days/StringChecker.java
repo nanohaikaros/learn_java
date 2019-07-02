@@ -1,3 +1,5 @@
+package com.java21days;
+
 class StringChecker {
 	
 	public static void main(String[] arguments) {

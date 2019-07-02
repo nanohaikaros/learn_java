@@ -1,3 +1,5 @@
+package com.java21days;
+
 class VolcanoApplication {
     public static void main(String[] arguments) {
         VolcanoRobot dante = new VolcanoRobot();

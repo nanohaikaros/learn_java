@@ -1,3 +1,5 @@
+package com.java21days;
+
 public class Weather {
 	public static void main(String[] arguments) {
 		float fah = 86;

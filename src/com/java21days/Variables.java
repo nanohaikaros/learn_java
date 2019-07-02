@@ -1,3 +1,5 @@
+package com.java21days;
+
 public class Variables {
 
     public static void main(String[] arguments) {
